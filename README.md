@@ -4,7 +4,7 @@ My name is Igor Cruz, I am from 🇧🇷 Brazil,  I am a technology student in c
 I am a person who is always in search of knowledge and always try to help everyone around.
 I'm looking for the first opportunity as a frontend web developer.
 
-#About me
+**About me**
 
 📍 From Bahia, living in Lauro de Freitas
 
