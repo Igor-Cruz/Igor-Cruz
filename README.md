@@ -8,7 +8,7 @@ I'm looking for the first opportunity as a frontend web developer.
 
 📍 From Bahia, live in Lauro de Freitas
 
-👮‍♂️ Cape of the Brazilian Navy
+⚓♂️ Cape of the Brazilian Navy
 
 💻 Seeking knowledge in Technologies: HTML, CSS, JavaScript, Bootstrap, JQuery, React
 
