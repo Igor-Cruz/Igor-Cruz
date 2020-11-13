@@ -6,7 +6,7 @@ I'm looking for the first opportunity as a frontend web developer.
 
 **About me**
 
-📍 From Bahia, living in Lauro de Freitas
+📍 From Bahia, live in Lauro de Freitas
 
 👮‍♂️ Cape of the Brazilian Navy
 
