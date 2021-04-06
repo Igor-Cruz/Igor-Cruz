@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is Igor Cruz, I am from 🇧🇷 Brazil,  I am a technology student in computer networks, looking for knowledge to act as a frontend web developer.
-I am a person who is always in search of knowledge and always try to help everyone around.
+My name is Igor Cruz, I am from 🇧🇷 Brazil,  I have a degree in computer network technology, looking for knowledge to act as a frontend web developer.
 I'm looking for the first opportunity as a frontend web developer.
 
 **About me**
