@@ -1,19 +1,20 @@
-# Hi there 👋
+# Olá, sou o Igor Cruz. 👋
 
-My name is Igor Cruz, I am from 🇧🇷 Brazil,  I have a degree in computer network technology, looking for knowledge to act as a frontend web developer.
-I'm looking for the first opportunity as a frontend web developer.
+Formado em Tecnologia de Redes de computadores na UNIFACS (Universidade Salvador). Venho me especializando em desenvolvimento web através da Formação Full Stack Master do DevPleno.
 
-**About me**
+Nos últimos meses venho estudando as tecnologias: HTML, CSS, JavaScript, Nodejs, React e MongoDB.
 
-📍 From Bahia, live in Lauro de Freitas
+**Sobre mim**
 
-⚓ Cape of the Brazilian Navy
+📍 Bahia,Lauro de Freitas.
 
-💻 Seeking knowledge in Technologies: HTML, CSS, JavaScript, Bootstrap, JQuery, React
+⚓ Cabo da Marinha do Brasil.
 
-👨‍💻 I intend to act as a web developer frontend
+💻 Buscando conhecimento nas tecnologias: HTML, CSS, JavaScript, Bootstrap, JQuery, React, NodeJs e MongoDB.
 
-🎮 In my free time I like going to the gym, running in the morning, games, series, movies and going to judo or jiu-jitsu 🥋
+👨‍💻 Pretendo atuar como um desenvolvedor web front-end ou desenvolvedor full stack.
+
+🎮 No meu tempo livre gosto de ir à academia, correr pela manhã, jogos, séries, filmes e ir ao judô ou jiu-jitsu. 🥋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/igor-cruz-ti/)
