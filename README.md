@@ -1,20 +1,21 @@
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TIMES+NEW+ROMAN&color=%230F3E8A&size=40&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Welcome+to+Igor+Cruz+profile!+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TIMES+NEW+ROMAN&color=%230F3E8A&size=40&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Welcome+to+Igor+Cruz+profile!+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
 
-Formado em Tecnologia de Redes de computadores na UNIFACS (Universidade Salvador). Venho me especializando em desenvolvimento web através da Formação Full Stack Master do DevPleno.
+Graduated in Computer Network Technology at UNIFACS (Universidade Salvador). I've been specializing in web development through DevPleno's Full Stack Master Training.
 
-Nos últimos meses venho estudando as tecnologias: HTML, CSS, JavaScript, Nodejs, React e MongoDB.
+In the DevPleno course, after the completion of the first project, Palpitebox can obtain knowledge in:
+Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions, High order functions, asynchronism) | ReactJS| TailwindCSS| CSS Modules | Componentization | Google-spreadsheet | Git | Github | SWR | API's working | Date Manipulation with MomentJS | Experience of putting into Production (Deploy)
 
-**Sobre mim**
+**About me**
 
-📍 Bahia,Lauro de Freitas.
+📍Bahia,Lauro de Freitas.
 
-⚓ Cabo da Marinha do Brasil.
+⚓ Brazilian Navy Cable.
 
-💻 Buscando conhecimento nas tecnologias: HTML, CSS, JavaScript, Bootstrap, JQuery, React, NodeJs e MongoDB.
+💻 Seeking knowledge in technologies: HTML, CSS, JavaScript, ReactJs, NodeJs and MongoDB.
 
-👨‍💻 Pretendo atuar como um desenvolvedor web front-end ou desenvolvedor full stack.
+👨‍💻 I intend to act as a full stack developer.
 
-🎮 No meu tempo livre gosto de ir à academia, correr pela manhã, jogos, séries, filmes e ir ao judô ou jiu-jitsu. 🥋
+🎮In my free time I like going to the gym, jogging in the morning, games, series, movies and going to judo or jiu-jitsu. 🥋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/igor-cruz-ti/)
