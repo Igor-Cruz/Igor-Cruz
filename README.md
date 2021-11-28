@@ -5,9 +5,18 @@ Graduated in Computer Network Technology at UNIFACS (Universidade Salvador). I'v
 In the DevPleno course, after the completion of the first project, Palpitebox can obtain knowledge in:
 Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions, High order functions, asynchronism) | ReactJS| TailwindCSS| CSS Modules | Componentization | Google-spreadsheet | Git | Github | SWR | API's working | Date Manipulation with MomentJS | Experience of putting into Production (Deploy)
 
+** **
+
+  <a href="https://www.linkedin.com/in/igor-cruz-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+** **
+
 **About me**
 
-![CODAR](https://user-images.githubusercontent.com/67762906/143772253-8e9b076d-5036-4f3a-ad52-ae5a52575d44.gif)
+</div>
+
+
 
 📍Bahia,Lauro de Freitas.
 
@@ -19,5 +28,27 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
 
 🎮In my free time I like going to the gym, jogging in the morning, games, series, movies and going to judo or jiu-jitsu. 🥋
 
+** **
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/igor-cruz-ti/)
+**Languages and tools:**
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+</div>
+
+** **
+
+
+<div align="center">
+  <a href="https://github.com/Igor-Cruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Cruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Cruz&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
