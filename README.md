@@ -7,6 +7,8 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
 
 **About me**
 
+![CODAR](https://user-images.githubusercontent.com/67762906/143772253-8e9b076d-5036-4f3a-ad52-ae5a52575d44.gif)
+
 📍Bahia,Lauro de Freitas.
 
 ⚓ Brazilian Navy Cable.
