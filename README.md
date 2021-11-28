@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TIMES+NEW+ROMAN&color=%230F3E8A&size=40&center=true&vCenter=true&multiline=true&width=500&height=110&lines=Welcome+to+Igor+Cruz+profile!+;Full+Stack+Developer)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TIMES+NEW+ROMAN&color=%230F3E8A&size=40&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Welcome+to+Igor+Cruz+profile!+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
 
 Formado em Tecnologia de Redes de computadores na UNIFACS (Universidade Salvador). Venho me especializando em desenvolvimento web através da Formação Full Stack Master do DevPleno.
 
