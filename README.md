@@ -13,12 +13,10 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
 ** **
 
 **About me**
-
-</div>
-
-
-
-📍Bahia,Lauro de Freitas.
+<div>
+  
+  
+ 📍Bahia,Lauro de Freitas.
 
 ⚓ Brazilian Navy Cable.
 
@@ -26,7 +24,18 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
 
 👨‍💻 I intend to act as a full stack developer.
 
-🎮In my free time I like going to the gym, jogging in the morning, games, series, movies and going to judo or jiu-jitsu. 🥋
+🎮 In my free time I like going to the gym, jogging in the morning, games, series, movies and going to judo or jiu-jitsu. 🥋
+ 
+  
+   <div >
+    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="200" height="200" />
+   </div>
+  
+  
+
+</div>
+
+
 
 ** **
 
@@ -39,6 +48,7 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ 
   
 </div>
 
@@ -49,6 +59,7 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
   <a href="https://github.com/Igor-Cruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Cruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Cruz&layout=compact&langs_count=7&theme=tokyonight"/>
+      
 </div>
 
 
