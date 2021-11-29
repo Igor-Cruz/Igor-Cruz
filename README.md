@@ -27,17 +27,15 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
 🎮 In my free time I like going to the gym, jogging in the morning, games, series, movies and going to judo or jiu-jitsu. 🥋
  
   
-   <div >
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="200" height="200" />
+  <div >
+    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="150" height="150" />
    </div>
   
-  
-
 </div>
 
 
 
-** **
+** ** 
 
 **Languages and tools:**
 <div style="display: inline_block"><br>
@@ -48,6 +46,8 @@ Request/Response Operation | HTML/CSS | Forms | Javascript (Variables, Functions
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <br/>
+  
  
   
 </div>
