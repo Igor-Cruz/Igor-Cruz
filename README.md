@@ -1,127 +1,88 @@
-# Igor Cruz — Junior Java Developer
+# 👨‍💻 IGOR CRUZ
 
-## 👋 About Me
+## DevOps | Departamento de Modernização e Tecnologia - Corpo de Bombeiros Militar da Bahia
 
-I am a Junior Java Developer with a strong background in **IT Infrastructure, Computer Networks, and Information Security**, currently focused on **remote (home office)** opportunities.
+Profissional focado em infraestrutura Linux, automação e práticas DevOps, atuando no Departamento de Modernização e Tecnologia do Corpo de Bombeiros Militar da Bahia.
 
-I hold a **Bachelor’s degree in Computer Science**, a degree in **Computer Networks**, and a **postgraduate specialization in Cybercrime and Cybersecurity**. This academic and technical background provided me with a solid understanding of corporate IT environments, Linux and Windows systems, TCP/IP networking, virtualization, and security best practices.
-
-I am currently consolidating my career in **Back-end Development with Java**, applying my infrastructure and security knowledge to build reliable, well-structured, and secure software solutions.
+Atualmente desenvolvendo laboratórios práticos e projetos utilizando Ubuntu Server, Docker, Terraform, Ansible, Kubernetes, Python e Proxmox.
 
 ---
 
-## 🚀 Professional Goal
+## 🚀 Tecnologias e Ferramentas
 
-To work as a **Junior Java Developer**, contributing to back-end systems, APIs, and enterprise applications, with a strong focus on code quality, security, organization, and continuous learning.
-
----
-
-## 🛠️ Technologies & Skills
-
-### 💻 Languages & Development
-
-* Java (Object-Oriented Programming)
-* Spring Boot
-* RESTful APIs
-* JPA / Hibernate
-* SQL
-
-### ☁️ Infrastructure & Systems
-
-* Linux / Unix
-* Windows Server
-* Computer Networks (TCP/IP)
-* Virtualization
-* Cloud Computing Fundamentals
-
-### 🔐 Information Security
-
-* Application security fundamentals
-* Authentication and authorization concepts
-* Secure development best practices
-
-### ⚙️ Tools
-
-* Git & GitHub
-* Docker (basic)
-* Maven
-* IntelliJ IDEA
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-Infrastructure-00599C?style=for-the-badge) ![DevOps](https://img.shields.io/badge/DevOps-Automation-0A66C2?style=for-the-badge) ![Virtualization](https://img.shields.io/badge/Virtualization-Proxmox-E57000?style=for-the-badge)
 
 ---
 
-## 📂 Projects
+## 🖥️ Áreas de Estudo
 
-### 🔹 User Management API
-
-REST API developed in Java with Spring Boot for user management, focused on clean architecture, security concepts, and best practices.
-
-**Main features:**
-
-* User CRUD operations
-* Authentication and access control
-* SQL database integration
-* Global exception handling
-
-**Technologies:** Java, Spring Boot, Spring Security, JPA, PostgreSQL
+* Administração Linux
+* Automação de Infraestrutura
+* Infrastructure as Code (IaC)
+* Containers e Orquestração
+* Virtualização
+* DevOps
+* Observabilidade
+* Cloud Computing
 
 ---
 
-### 🔹 Infrastructure Monitoring API (Simulated)
+## 📂 Laboratórios e Projetos
 
-REST API that simulates server and infrastructure monitoring in a corporate environment.
+### 🔹 Ubuntu Server Labs
 
-**Main features:**
+Laboratórios focados em:
 
-* Server registration (hostname, IP address, OS)
-* Operational status (UP / DOWN)
-* Simulated logs
-* Health check endpoint
+* administração Linux
+* SSH
+* serviços
+* redes
+* automação Bash
 
-**Technologies:** Java, Spring Boot, REST API
+### 🔹 Terraform + Proxmox
 
----
+Provisionamento automatizado de infraestrutura utilizando Infrastructure as Code.
 
-## 🎖️ Professional Experience
+### 🔹 Ansible Automation
 
-### Military Institutions — Brazil
+Automação de configuração de servidores Linux utilizando playbooks.
 
-Over 7 years of experience in operational and administrative environments, developing highly valued professional skills:
+### 🔹 Docker & Kubernetes Labs
 
-* Discipline and responsibility
-* Deadline and time management
-* Ability to work under pressure
-* Process planning and execution
-* Reliability and commitment
+Ambientes com containers, redes Docker e orquestração Kubernetes.
 
----
+### 🔹 Python DevOps Scripts
 
-## 📚 Education
-
-* 🎓 Bachelor’s Degree in Computer Science
-* 🎓 Degree in Computer Networks
-* 🎓 Postgraduate Degree in Cybercrime and Cybersecurity
+Scripts Python voltados para automação operacional, monitoramento e administração Linux.
 
 ---
 
-## 🌍 Languages
+## 🎯 Objetivos
 
-* Portuguese: Native
-* English: Technical (reading and comprehension)
+Desenvolver ambientes modernos focados em:
 
----
-
-## 📫 Contact
-
-* 💼 LinkedIn: [https://www.linkedin.com](www.linkedin.com/in/cruz94)
-
----
-
-## 📌 Notes
-
-This repository gathers projects developed with a focus on practical learning, clean code, and alignment with real-world enterprise IT environments.
-
-I am always open to feedback, collaboration, and new opportunities.
+* automação
+* confiabilidade
+* escalabilidade
+* observabilidade
+* infraestrutura Linux
+* cultura DevOps
 
 ---
 
-⭐ Feel free to explore the projects and follow my professional growth!
+## 📚 Atualmente Estudando
+
+* Kubernetes
+* CI/CD
+* Observabilidade
+* Cloud Infrastructure
+* Automação avançada com Python
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/)
+
+
+
