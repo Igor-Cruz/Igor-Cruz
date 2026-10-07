@@ -1,88 +1,130 @@
-# 👨‍💻 IGOR CRUZ
+# 👨‍💻 Igor Cruz
 
-## DevOps | Departamento de Modernização e Tecnologia - Corpo de Bombeiros Militar da Bahia
+## Infrastructure Engineer | Software Developer | AI Engineering
 
-Profissional focado em infraestrutura Linux, automação e práticas DevOps, atuando no Departamento de Modernização e Tecnologia do Corpo de Bombeiros Militar da Bahia.
+Technology professional with experience in Linux infrastructure, virtualization, automation and information systems.
 
-Atualmente desenvolvendo laboratórios práticos e projetos utilizando Ubuntu Server, Docker, Terraform, Ansible, Kubernetes, Python e Proxmox.
+Currently focused on building modern applications using Java, React, PostgreSQL and Python, combining infrastructure knowledge with Software Engineering and Artificial Intelligence.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-Infrastructure-00599C?style=for-the-badge) ![DevOps](https://img.shields.io/badge/DevOps-Automation-0A66C2?style=for-the-badge) ![Virtualization](https://img.shields.io/badge/Virtualization-Proxmox-E57000?style=for-the-badge)
+My goal is to develop scalable solutions that integrate cloud infrastructure, backend services, modern frontends and AI-powered applications.
 
 ---
 
-## 🖥️ Áreas de Estudo
+# 🚀 Tech Stack
 
-* Administração Linux
-* Automação de Infraestrutura
-* Infrastructure as Code (IaC)
-* Containers e Orquestração
-* Virtualização
-* DevOps
-* Observabilidade
-* Cloud Computing
+## Backend
 
----
+* Java
+* Spring Boot
+* REST APIs
+* JWT Authentication
+* Maven
 
-## 📂 Laboratórios e Projetos
+## Frontend
 
-### 🔹 Ubuntu Server Labs
+* React
+* TypeScript
+* Vite
+* HTML
+* CSS
 
-Laboratórios focados em:
+## Databases
 
-* administração Linux
-* SSH
-* serviços
-* redes
-* automação Bash
+* PostgreSQL
+* PostGIS
 
-### 🔹 Terraform + Proxmox
+## Artificial Intelligence
 
-Provisionamento automatizado de infraestrutura utilizando Infrastructure as Code.
+* Python
+* LangChain
+* RAG (Retrieval-Augmented Generation)
+* Prompt Engineering
+* Fine-Tuning
+* LLM Applications
 
-### 🔹 Ansible Automation
+## Infrastructure & DevOps
 
-Automação de configuração de servidores Linux utilizando playbooks.
-
-### 🔹 Docker & Kubernetes Labs
-
-Ambientes com containers, redes Docker e orquestração Kubernetes.
-
-### 🔹 Python DevOps Scripts
-
-Scripts Python voltados para automação operacional, monitoramento e administração Linux.
-
----
-
-## 🎯 Objetivos
-
-Desenvolver ambientes modernos focados em:
-
-* automação
-* confiabilidade
-* escalabilidade
-* observabilidade
-* infraestrutura Linux
-* cultura DevOps
-
----
-
-## 📚 Atualmente Estudando
-
+* Linux
+* Docker
 * Kubernetes
-* CI/CD
-* Observabilidade
-* Cloud Infrastructure
-* Automação avançada com Python
+* Terraform
+* Ansible
+* Proxmox
+* GitHub Actions
 
 ---
 
-## 📫 Contato
+# 📂 Featured Projects
 
-[LinkedIn](https://www.linkedin.com/)
+## SISGH
 
+Hydrant management and inspection platform using:
 
+* React
+* Java Spring Boot
+* PostgreSQL
+* Geographic Information
 
+---
+
+## AI RAG Assistant
+
+AI assistant capable of answering questions from institutional documents using:
+
+* Python
+* LangChain
+* RAG
+* Vector Search
+
+---
+
+## Infrastructure Lab
+
+Infrastructure experiments involving:
+
+* Linux
+* Docker
+* Terraform
+* Ansible
+* Kubernetes
+
+---
+
+## Spring Boot API
+
+Backend reference project with:
+
+* Authentication
+* PostgreSQL
+* REST APIs
+* Swagger Documentation
+
+---
+
+# 🎯 Current Focus
+
+* Software Engineering
+* Artificial Intelligence Engineering
+* Cloud Architecture
+* DevOps
+* Cybersecurity
+* Distributed Systems
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Spring Boot
+* React Ecosystem
+* AI Engineering
+* LangChain
+* Vector Databases
+* Cloud Infrastructure
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/igorcruz
+
+Brazil 🇧🇷
